@@ -12,6 +12,7 @@
     "sass": "^1.51.0",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://rohankumr.github.io/tic-tac-toe/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
